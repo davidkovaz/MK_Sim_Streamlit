@@ -8,7 +8,7 @@ If you have questions about the app that aren't answered in this README, feel fr
 
 ## Version History
 
-### v0.64 (released ???)
+### v0.64 (released March 31, 2025)
 
 This is the very first version of the app (wow!). This initial release includes the following features:
 
