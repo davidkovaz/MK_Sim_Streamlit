@@ -11,7 +11,7 @@ st.markdown(('An uploaded data file should contain complete track finish results
 
 st.markdown(('1. The file must be in comma separated values (.csv) format.'))
 
-st.image('https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/images/example_data_full.PNG')
+st.image('images/example_data_full.PNG')
 
 st.markdown(('2. The first row of the data file must contain column names (i.e., the header row) as shown above. '))
 
@@ -26,14 +26,14 @@ with col1row1:
                 'Make sure to use consistent naming and spelling for each karter. '
                 'For example, the app will treat "Ngamer" and "N Gamer" as different karters!'))
 with col2row1:
-    st.image('https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/images/example_data_karter.png')
+    st.image('images/example_data_karter.png')
 
 col1row2, col2row2 = st.columns(2)
 with col1row2:
     st.markdown(('* Four (4) columns named "K1" "K2" "K3" and "K4" respectively. '
                 'These columns should contain the names of the karters who were involved in the match for the corresponding row of data (one name per column).'))
 with col2row2:
-    st.image('https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/images/example_data_karters.png')
+    st.image('images/example_data_karters.png')
 
 col1row3, col2row3 = st.columns(2)
 with col1row3:
@@ -43,7 +43,7 @@ with col1row3:
                 'There should be no additional columns to the right of the track results columns. '
                 'Each value in the track results columns should be a 1, 2, 3, or 4 to indicate the karter\'s finish on that track (1st, 2nd, 3rd, and 4th respectively).'))
 with col2row3:
-    st.image('https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/images/example_data_tracks.png')
+    st.image('images/example_data_tracks.png')
 
 st.markdown('#### Optional Columns')
 st.markdown(('Any other columns you wish to have are allowed as long as they appear to the LEFT of the track results columns in the data file. '
@@ -55,7 +55,7 @@ with col1row4:
     st.markdown(('* A column named "Event" that specifies where the match took place (e.g., "Virginia 2018").'))
     st.markdown(('* A column named "Match" that contains a descriptive identifier for the type of match ("Practice" "Playin" "Semifinal" etc.).'))
 with col2row4:
-    st.image('https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/images/example_data_optional.png')
+    st.image('images/example_data_optional.png')
 
 st.markdown('#### Additional Things to Note')
 st.markdown(('There should be no missing/blank values for any columns. Any rows with missing values will automatically be dropped when you upload your file. '))
