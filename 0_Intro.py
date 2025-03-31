@@ -15,8 +15,7 @@ st.markdown(('If you want to just use the default data and get right to simulati
 
 st.markdown('#### Want to know more?')
 st.markdown(('If you would like to know more about how the simulator works and how it was developed, '
-             'I encourage you to read the [documentation](https://github.com/davidkovaz/MK_Sim_Streamlit/blob/80be8d254b44912b3e2ec74c30696ceda283b6cd/README.md) '
-             'in the [GitHub repository](https://github.com/davidkovaz/MK_Sim_Streamlit) I created for the app. '
+             'I encourage you to read the documentation in the [GitHub repository](https://github.com/davidkovaz/MK_Sim_Streamlit) I created for the app. '
              'This app was written in Python and the source code is freely available for anyone to view, use, and modify.'))
 
 st.markdown('#### DISCLAIMER:')
