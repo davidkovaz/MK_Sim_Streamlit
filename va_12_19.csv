@@ -1,0 +1,497 @@
+Event,Match,K1,K2,K3,K4,Karter,LR,MF,KB,KD,TT,FS,CM,MR,WS,SL,Ry,BC,DK,YV,BB,Rd
+Virginia 2012,R16,Wiff,Stinson,Wheat,Wonn,Wiff,4,4,4,4,4,4,2,1,3,4,3,3,3,4,3,4
+Virginia 2012,R16,Wiff,Stinson,Wheat,Wonn,Stinson,1,2,3,2,3,3,4,3,1,2,2,4,2,3,2,3
+Virginia 2012,R16,Wiff,Stinson,Wheat,Wonn,Wheat,2,1,1,1,2,1,3,4,4,3,4,2,4,2,1,1
+Virginia 2012,R16,Wiff,Stinson,Wheat,Wonn,Wonn,3,3,2,3,1,2,1,2,2,1,1,1,1,1,4,2
+Virginia 2012,R16,Boss,Mgay,Weatherton,Edeen,Boss,2,2,1,2,1,1,4,3,1,1,2,1,2,2,2,1
+Virginia 2012,R16,Boss,Mgay,Weatherton,Edeen,Mgay,4,3,2,4,3,2,3,4,3,4,4,3,4,3,4,4
+Virginia 2012,R16,Boss,Mgay,Weatherton,Edeen,Weatherton,3,4,3,3,2,3,2,2,2,3,1,2,1,4,3,2
+Virginia 2012,R16,Boss,Mgay,Weatherton,Edeen,Edeen,1,1,4,1,4,4,1,1,4,2,3,4,3,1,1,3
+Virginia 2012,R16,Jones,Clark,Lovins,Third,Jones,3,3,2,3,1,3,4,2,4,3,4,3,2,4,3,4
+Virginia 2012,R16,Jones,Clark,Lovins,Third,Clark,2,1,1,1,2,4,1,3,1,2,3,4,3,1,4,2
+Virginia 2012,R16,Jones,Clark,Lovins,Third,Lovins,4,2,3,4,4,2,3,4,2,1,1,1,4,2,2,3
+Virginia 2012,R16,Jones,Clark,Lovins,Third,Third,1,4,4,2,3,1,2,1,3,4,2,2,1,3,1,1
+Virginia 2012,R16,Jimbo,OD,PYL,Trent,Jimbo,1,1,2,3,4,2,2,1,3,1,3,1,2,1,3,4
+Virginia 2012,R16,Jimbo,OD,PYL,Trent,OD,2,3,3,2,1,1,3,3,1,4,4,4,1,2,2,3
+Virginia 2012,R16,Jimbo,OD,PYL,Trent,PYL,4,2,4,1,3,3,1,2,4,3,1,3,4,4,1,1
+Virginia 2012,R16,Jimbo,OD,PYL,Trent,Trent,3,4,1,4,2,4,4,4,2,2,2,2,3,3,4,2
+Virginia 2012,R16,Wonn,Weatherton,Lovins,OD,Wonn,2,2,1,2,2,4,2,4,2,2,3,1,4,2,3,3
+Virginia 2012,R16,Wonn,Weatherton,Lovins,OD,Weatherton,4,1,3,4,3,3,3,1,4,3,1,2,2,4,4,2
+Virginia 2012,R16,Wonn,Weatherton,Lovins,OD,Lovins,3,4,2,1,4,1,1,3,1,4,4,3,1,3,1,1
+Virginia 2012,R16,Wonn,Weatherton,Lovins,OD,OD,1,3,4,3,1,2,4,2,3,1,2,4,3,1,2,4
+Virginia 2012,R16,Trent,Wiff,Boss,Third,Trent,2,2,4,3,1,3,2,1,2,3,2,3,4,1,2,4
+Virginia 2012,R16,Trent,Wiff,Boss,Third,Wiff,3,4,3,4,4,4,4,2,4,4,4,4,2,4,4,2
+Virginia 2012,R16,Trent,Wiff,Boss,Third,Boss,1,1,2,1,3,1,3,4,1,1,1,2,3,3,1,1
+Virginia 2012,R16,Trent,Wiff,Boss,Third,Third,4,3,1,2,2,2,1,3,3,2,3,1,1,2,3,3
+Virginia 2012,R16,PYL,Stinson,Clark,Edeen,PYL,2,1,3,2,1,1,4,1,1,4,4,4,1,1,1,3
+Virginia 2012,R16,PYL,Stinson,Clark,Edeen,Stinson,3,3,1,3,4,4,1,2,3,1,2,3,2,4,3,1
+Virginia 2012,R16,PYL,Stinson,Clark,Edeen,Clark,1,4,4,4,3,2,3,4,2,3,1,1,3,3,4,2
+Virginia 2012,R16,PYL,Stinson,Clark,Edeen,Edeen,4,2,2,1,2,3,2,3,4,2,3,2,4,2,2,4
+Virginia 2012,R16,Jimbo,Wheat,Jones,Mgay,Jimbo,1,1,3,1,1,2,1,2,3,4,3,2,2,1,1,4
+Virginia 2012,R16,Jimbo,Wheat,Jones,Mgay,Wheat,2,4,2,2,2,1,3,1,2,1,2,1,1,3,2,1
+Virginia 2012,R16,Jimbo,Wheat,Jones,Mgay,Jones,4,3,4,3,4,3,2,3,1,2,1,4,3,2,3,3
+Virginia 2012,R16,Jimbo,Wheat,Jones,Mgay,Mgay,3,2,1,4,3,4,4,4,4,3,4,3,4,4,4,2
+Virginia 2012,R16,Jimbo,Wiff,Weatherton,Clark,Jimbo,2,1,3,2,2,1,2,1,1,1,3,4,4,4,1,1
+Virginia 2012,R16,Jimbo,Wiff,Weatherton,Clark,Wiff,3,4,4,4,4,4,4,4,3,4,4,3,3,3,4,4
+Virginia 2012,R16,Jimbo,Wiff,Weatherton,Clark,Weatherton,4,2,1,3,3,2,3,2,2,2,1,2,2,2,3,2
+Virginia 2012,R16,Jimbo,Wiff,Weatherton,Clark,Clark,1,3,2,1,1,3,1,3,4,3,2,1,1,1,2,3
+Virginia 2012,R16,Boss,PYL,Wonn,Jones,Boss,2,4,1,3,2,2,2,2,3,1,2,2,2,1,2,1
+Virginia 2012,R16,Boss,PYL,Wonn,Jones,PYL,1,3,2,1,1,3,1,1,1,4,4,1,3,3,1,3
+Virginia 2012,R16,Boss,PYL,Wonn,Jones,Wonn,4,1,3,2,3,1,3,3,2,3,3,3,4,2,3,2
+Virginia 2012,R16,Boss,PYL,Wonn,Jones,Jones,3,2,4,4,4,4,4,4,4,2,1,4,1,4,4,4
+Virginia 2012,R16,Third,Mgay,OD,Stinson,Third,1,3,2,1,3,2,2,1,3,4,1,2,1,1,1,1
+Virginia 2012,R16,Third,Mgay,OD,Stinson,Mgay,4,4,4,2,4,4,3,4,4,3,2,3,3,4,4,2
+Virginia 2012,R16,Third,Mgay,OD,Stinson,OD,3,2,3,4,2,1,4,3,2,2,3,4,4,2,3,4
+Virginia 2012,R16,Third,Mgay,OD,Stinson,Stinson,2,1,1,3,1,3,1,2,1,1,4,1,2,3,2,3
+Virginia 2012,R16,Trent,Wheat,Edeen,Lovins,Trent,2,4,3,2,4,1,2,3,4,3,2,1,1,4,2,1
+Virginia 2012,R16,Trent,Wheat,Edeen,Lovins,Wheat,1,3,1,3,2,2,1,2,1,2,3,4,4,2,4,3
+Virginia 2012,R16,Trent,Wheat,Edeen,Lovins,Edeen,4,2,4,1,1,4,3,1,3,4,4,3,3,1,1,2
+Virginia 2012,R16,Trent,Wheat,Edeen,Lovins,Lovins,3,1,2,4,3,3,4,4,2,1,1,2,2,3,3,4
+Virginia 2012,Semifinal,Boss,Wheat,PYL,Stinson,Boss,2,3,3,2,2,2,3,2,2,2,2,1,3,1,2,1
+Virginia 2012,Semifinal,Boss,Wheat,PYL,Stinson,Wheat,4,4,4,1,4,1,4,3,3,4,3,2,4,4,4,3
+Virginia 2012,Semifinal,Boss,Wheat,PYL,Stinson,PYL,1,1,2,3,3,4,2,4,4,3,1,3,1,3,3,4
+Virginia 2012,Semifinal,Boss,Wheat,PYL,Stinson,Stinson,3,2,1,4,1,3,1,1,1,1,4,4,2,2,1,2
+Virginia 2012,Semifinal,Jimbo,Wonn,Third,Clark,Jimbo,3,2,1,3,1,4,1,2,4,2,1,1,1,2,4,4
+Virginia 2012,Semifinal,Jimbo,Wonn,Third,Clark,Wonn,4,4,4,1,4,1,4,1,3,4,4,3,3,1,2,2
+Virginia 2012,Semifinal,Jimbo,Wonn,Third,Clark,Third,1,1,3,4,3,3,2,4,1,3,3,2,4,3,1,1
+Virginia 2012,Semifinal,Jimbo,Wonn,Third,Clark,Clark,2,3,2,2,2,2,3,3,2,1,2,4,2,4,3,3
+Virginia 2012,Final,Jimbo,Third,Stinson,Boss,Jimbo,1,4,3,2,2,3,3,2,2,2,2,4,1,2,4,4
+Virginia 2012,Final,Jimbo,Third,Stinson,Boss,Third,3,3,2,3,3,2,4,3,4,1,1,3,4,1,2,1
+Virginia 2012,Final,Jimbo,Third,Stinson,Boss,Stinson,4,1,4,4,4,1,2,4,3,3,4,1,3,4,1,3
+Virginia 2012,Final,Jimbo,Third,Stinson,Boss,Boss,2,2,1,1,1,4,1,1,1,4,3,2,2,3,3,2
+Virginia 2013,Playin,Duff,Wiff,Trent,Dennison,Duff,1,4,3,2,3,3,4,4,1,4,4,3,4,3,3,2
+Virginia 2013,Playin,Duff,Wiff,Trent,Dennison,Wiff,2,2,4,3,4,4,2,3,4,3,2,1,3,4,4,4
+Virginia 2013,Playin,Duff,Wiff,Trent,Dennison,Trent,3,3,2,1,2,1,1,1,3,2,3,2,1,1,1,3
+Virginia 2013,Playin,Duff,Wiff,Trent,Dennison,Dennison,4,1,1,4,1,2,3,2,2,1,1,4,2,2,2,1
+Virginia 2013,Playin,Matis,Ngamer,Mgay,Thingy,Matis,3,1,1,1,1,1,1,1,3,2,2,4,3,1,3,2
+Virginia 2013,Playin,Matis,Ngamer,Mgay,Thingy,Ngamer,2,4,2,2,2,3,3,2,2,1,1,3,1,3,1,1
+Virginia 2013,Playin,Matis,Ngamer,Mgay,Thingy,Mgay,1,3,3,3,3,2,2,3,1,3,3,1,2,2,2,4
+Virginia 2013,Playin,Matis,Ngamer,Mgay,Thingy,Thingy,4,2,4,4,4,4,4,4,4,4,4,2,4,4,4,3
+Virginia 2013,R16,Third,Weatherton,Jones,Ngamer,Third,3,1,1,3,2,1,1,2,2,4,3,1,2,3,2,3
+Virginia 2013,R16,Third,Weatherton,Jones,Ngamer,Weatherton,1,3,3,1,3,3,3,4,3,2,4,3,1,2,1,2
+Virginia 2013,R16,Third,Weatherton,Jones,Ngamer,Jones,2,2,2,2,1,4,2,1,1,1,1,2,4,1,3,1
+Virginia 2013,R16,Third,Weatherton,Jones,Ngamer,Ngamer,4,4,4,4,4,2,4,3,4,3,2,4,3,4,4,4
+Virginia 2013,R16,Jimbo,Wheat,Lovins,Dennison,Jimbo,1,1,1,1,1,1,3,3,3,2,2,2,1,2,2,2
+Virginia 2013,R16,Jimbo,Wheat,Lovins,Dennison,Wheat,2,4,4,2,3,2,2,1,1,3,4,3,4,3,3,3
+Virginia 2013,R16,Jimbo,Wheat,Lovins,Dennison,Lovins,3,3,2,3,2,3,1,2,2,1,1,1,2,1,1,1
+Virginia 2013,R16,Jimbo,Wheat,Lovins,Dennison,Dennison,4,2,3,4,4,4,4,4,4,4,3,4,3,4,4,4
+Virginia 2013,R16,Stinson,PYL,Edeen,Matis,Stinson,4,1,3,2,1,4,2,4,3,1,2,1,4,2,4,2
+Virginia 2013,R16,Stinson,PYL,Edeen,Matis,PYL,3,4,1,1,3,1,3,3,1,2,1,2,2,4,2,3
+Virginia 2013,R16,Stinson,PYL,Edeen,Matis,Edeen,1,2,2,3,2,2,1,2,4,3,3,4,1,1,1,4
+Virginia 2013,R16,Stinson,PYL,Edeen,Matis,Matis,2,3,4,4,4,3,4,1,2,4,4,3,3,3,3,1
+Virginia 2013,R16,Wonn,Booth,Trent,Clark,Wonn,3,4,3,3,2,4,4,3,1,4,2,3,2,2,4,1
+Virginia 2013,R16,Wonn,Booth,Trent,Clark,Booth,4,3,1,4,1,2,1,2,4,3,4,2,1,3,3,3
+Virginia 2013,R16,Wonn,Booth,Trent,Clark,Trent,2,2,4,1,3,1,3,1,2,2,1,1,3,4,2,2
+Virginia 2013,R16,Wonn,Booth,Trent,Clark,Clark,1,1,2,2,4,3,2,4,3,1,3,4,4,1,1,4
+Virginia 2013,R16,Jimbo,Wonn,Booth,Dennison,Jimbo,1,2,3,3,2,1,2,4,4,3,1,1,3,1,2,2
+Virginia 2013,R16,Jimbo,Wonn,Booth,Dennison,Wonn,2,1,1,2,4,3,3,3,2,1,2,4,4,4,3,3
+Virginia 2013,R16,Jimbo,Wonn,Booth,Dennison,Booth,4,4,2,1,3,4,4,2,1,4,3,2,1,3,4,1
+Virginia 2013,R16,Jimbo,Wonn,Booth,Dennison,Dennison,3,3,4,4,1,2,1,1,3,2,4,3,2,2,1,4
+Virginia 2013,R16,Ngamer,PYL,Third,Edeen,Ngamer,2,1,2,4,4,4,2,3,4,4,3,4,4,4,4,2
+Virginia 2013,R16,Ngamer,PYL,Third,Edeen,PYL,3,4,3,2,3,2,3,2,3,1,1,2,1,1,3,1
+Virginia 2013,R16,Ngamer,PYL,Third,Edeen,Third,1,3,4,1,1,3,4,4,2,3,4,3,2,2,1,3
+Virginia 2013,R16,Ngamer,PYL,Third,Edeen,Edeen,4,2,1,3,2,1,1,1,1,2,2,1,3,3,2,4
+Virginia 2013,R16,Clark,Wheat,Lovins,Trent,Clark,1,3,2,1,2,4,4,3,2,4,3,1,3,4,1,4
+Virginia 2013,R16,Clark,Wheat,Lovins,Trent,Wheat,4,4,4,2,1,3,2,2,4,1,1,2,1,1,4,3
+Virginia 2013,R16,Clark,Wheat,Lovins,Trent,Lovins,2,1,3,4,4,1,1,1,3,2,2,3,2,2,3,1
+Virginia 2013,R16,Clark,Wheat,Lovins,Trent,Trent,3,2,1,3,3,2,3,4,1,3,4,4,4,3,2,2
+Virginia 2013,R16,Jones,Stinson,Weatherton,Matis,Jones,4,1,1,1,2,1,2,1,4,1,1,2,3,1,1,3
+Virginia 2013,R16,Jones,Stinson,Weatherton,Matis,Stinson,1,2,3,2,1,3,3,4,1,2,3,1,1,3,2,4
+Virginia 2013,R16,Jones,Stinson,Weatherton,Matis,Weatherton,3,4,2,3,4,2,1,2,2,3,2,4,2,2,4,2
+Virginia 2013,R16,Jones,Stinson,Weatherton,Matis,Matis,2,3,4,4,3,4,4,3,3,4,4,3,4,4,3,1
+Virginia 2013,Semifinal,Trent,Jones,PYL,Edeen,Trent,4,3,3,4,4,3,2,2,2,3,4,1,3,4,4,4
+Virginia 2013,Semifinal,Trent,Jones,PYL,Edeen,Jones,3,1,2,3,3,2,1,3,4,2,3,4,1,3,3,2
+Virginia 2013,Semifinal,Trent,Jones,PYL,Edeen,PYL,1,2,1,2,2,4,4,1,3,1,1,3,2,1,1,3
+Virginia 2013,Semifinal,Trent,Jones,PYL,Edeen,Edeen,2,4,4,1,1,1,3,4,1,4,2,2,4,2,2,1
+Virginia 2013,Semifinal,Third,Stinson,Lovins,Jimbo,Third,1,3,3,4,3,2,2,3,2,4,1,4,4,2,4,4
+Virginia 2013,Semifinal,Third,Stinson,Lovins,Jimbo,Stinson,3,4,1,3,2,3,1,2,3,2,2,3,1,4,2,3
+Virginia 2013,Semifinal,Third,Stinson,Lovins,Jimbo,Lovins,2,1,2,1,1,1,3,4,4,1,3,2,3,3,3,2
+Virginia 2013,Semifinal,Third,Stinson,Lovins,Jimbo,Jimbo,4,2,4,2,4,4,4,1,1,3,4,1,2,1,1,1
+Virginia 2013,Final,Jimbo,PYL,Lovins,Edeen,Jimbo,3,4,4,3,2,2,3,3,4,4,3,1,4,1,2,2
+Virginia 2013,Final,Jimbo,PYL,Lovins,Edeen,PYL,4,2,3,2,4,1,1,4,2,1,4,4,1,2,4,3
+Virginia 2013,Final,Jimbo,PYL,Lovins,Edeen,Lovins,2,1,1,1,1,4,2,1,3,2,2,3,2,3,1,4
+Virginia 2013,Final,Jimbo,PYL,Lovins,Edeen,Edeen,1,3,2,4,3,3,4,2,1,3,1,2,3,4,3,1
+Virginia 2014,Playin,Thingy,Liz,Patrik,Dennison,Thingy,1,3,4,4,3,3,3,4,4,4,4,4,3,4,1,4
+Virginia 2014,Playin,Thingy,Liz,Patrik,Dennison,Liz,4,1,3,2,4,4,4,3,2,3,1,2,4,3,3,2
+Virginia 2014,Playin,Thingy,Liz,Patrik,Dennison,Patrik,2,2,1,3,2,1,2,2,1,1,2,3,1,1,2,1
+Virginia 2014,Playin,Thingy,Liz,Patrik,Dennison,Dennison,3,4,2,1,1,2,1,1,3,2,3,1,2,2,4,3
+Virginia 2014,Playin,Ngamer,Hutch,Wiff,Duff,Ngamer,4,1,3,1,3,2,1,2,4,1,1,2,4,1,3,1
+Virginia 2014,Playin,Ngamer,Hutch,Wiff,Duff,Hutch,2,3,2,2,1,3,4,1,2,3,2,3,1,4,4,2
+Virginia 2014,Playin,Ngamer,Hutch,Wiff,Duff,Wiff,3,4,4,3,4,4,3,3,3,4,3,1,2,3,2,4
+Virginia 2014,Playin,Ngamer,Hutch,Wiff,Duff,Duff,1,2,1,4,2,1,2,4,1,2,4,4,3,2,1,3
+Virginia 2014,R16,JT,Clark,Hutch,Lovins,JT,3,1,3,1,4,3,3,1,2,1,2,3,2,2,2,3
+Virginia 2014,R16,JT,Clark,Hutch,Lovins,Clark,2,4,2,4,1,2,1,3,1,3,3,1,3,3,3,1
+Virginia 2014,R16,JT,Clark,Hutch,Lovins,Hutch,4,3,4,2,2,4,4,4,4,4,4,4,4,4,4,4
+Virginia 2014,R16,JT,Clark,Hutch,Lovins,Lovins,1,2,1,3,3,1,2,2,3,2,1,2,1,1,1,2
+Virginia 2014,R16,Liz,PYL,Wheat,Weatherton,Liz,3,1,4,4,4,3,3,3,3,4,4,4,4,4,4,4
+Virginia 2014,R16,Liz,PYL,Wheat,Weatherton,PYL,4,2,1,1,2,1,1,1,2,3,1,1,2,2,1,2
+Virginia 2014,R16,Liz,PYL,Wheat,Weatherton,Wheat,1,3,3,3,1,2,4,2,1,2,2,3,1,1,2,3
+Virginia 2014,R16,Liz,PYL,Wheat,Weatherton,Weatherton,2,4,2,2,3,4,2,4,4,1,3,2,3,3,3,1
+Virginia 2014,R16,Ngamer,Trent,Jimbo,Dennison,Ngamer,4,3,3,4,4,3,4,4,4,2,3,4,3,4,4,4
+Virginia 2014,R16,Ngamer,Trent,Jimbo,Dennison,Trent,3,1,2,2,1,1,2,1,1,3,4,2,2,2,3,2
+Virginia 2014,R16,Ngamer,Trent,Jimbo,Dennison,Jimbo,1,2,1,1,3,2,1,2,2,1,1,1,1,1,1,3
+Virginia 2014,R16,Ngamer,Trent,Jimbo,Dennison,Dennison,2,4,4,3,2,4,3,3,3,4,2,3,4,3,2,1
+Virginia 2014,R16,Stinson,Jones,Patrik,Duff,Stinson,4,3,3,1,3,1,1,1,3,3,4,2,2,4,3,2
+Virginia 2014,R16,Stinson,Jones,Patrik,Duff,Jones,1,1,1,4,1,3,2,2,1,1,2,1,3,1,4,1
+Virginia 2014,R16,Stinson,Jones,Patrik,Duff,Patrik,3,4,4,2,2,2,3,4,2,2,3,3,4,2,2,3
+Virginia 2014,R16,Stinson,Jones,Patrik,Duff,Duff,2,2,2,3,4,4,4,3,4,4,1,4,1,3,1,4
+Virginia 2014,R16,Liz,Jones,Ngamer,Lovins,Liz,1,3,4,3,4,4,4,1,3,3,1,4,3,4,4,3
+Virginia 2014,R16,Liz,Jones,Ngamer,Lovins,Jones,4,1,1,1,1,2,2,4,1,1,2,1,2,1,1,1
+Virginia 2014,R16,Liz,Jones,Ngamer,Lovins,Ngamer,2,4,3,4,2,3,3,3,4,4,4,3,4,3,3,4
+Virginia 2014,R16,Liz,Jones,Ngamer,Lovins,Lovins,3,2,2,2,3,1,1,2,2,2,3,2,1,2,2,2
+Virginia 2014,R16,Duff,PYL,Patrik,Trent,Duff,4,3,1,4,4,3,4,2,4,4,2,4,3,4,4,4
+Virginia 2014,R16,Duff,PYL,Patrik,Trent,PYL,2,1,2,2,1,1,1,1,2,1,1,2,2,1,3,2
+Virginia 2014,R16,Duff,PYL,Patrik,Trent,Patrik,3,2,3,3,3,2,3,4,3,3,3,3,4,3,2,3
+Virginia 2014,R16,Duff,PYL,Patrik,Trent,Trent,1,4,4,1,2,4,2,3,1,2,4,1,1,2,1,1
+Virginia 2014,R16,Jimbo,Hutch,JT,Weatherton,Jimbo,3,1,1,2,4,1,4,2,2,1,2,3,1,1,3,1
+Virginia 2014,R16,Jimbo,Hutch,JT,Weatherton,Hutch,2,3,4,4,3,3,2,4,4,4,4,4,4,4,4,4
+Virginia 2014,R16,Jimbo,Hutch,JT,Weatherton,JT,1,4,2,3,1,4,3,3,3,3,1,2,2,2,1,2
+Virginia 2014,R16,Jimbo,Hutch,JT,Weatherton,Weatherton,4,2,3,1,2,2,1,1,1,2,3,1,3,3,2,3
+Virginia 2014,R16,Stinson,Wheat,Clark,Dennison,Stinson,2,2,1,1,1,2,1,3,4,1,4,4,2,1,2,2
+Virginia 2014,R16,Stinson,Wheat,Clark,Dennison,Wheat,4,3,4,2,2,1,4,2,3,3,2,3,1,3,1,1
+Virginia 2014,R16,Stinson,Wheat,Clark,Dennison,Clark,3,4,3,4,3,3,3,4,1,4,1,1,3,2,4,3
+Virginia 2014,R16,Stinson,Wheat,Clark,Dennison,Dennison,1,1,2,3,4,4,2,1,2,2,3,2,4,4,3,4
+Virginia 2014,Semifinal,Wheat,PYL,Trent,Lovins,Wheat,3,2,2,3,2,3,4,4,4,1,3,1,1,2,4,4
+Virginia 2014,Semifinal,Wheat,PYL,Trent,Lovins,PYL,4,3,3,4,4,2,3,3,1,4,4,2,4,1,2,3
+Virginia 2014,Semifinal,Wheat,PYL,Trent,Lovins,Trent,1,1,1,2,1,1,2,2,3,2,1,3,2,3,3,1
+Virginia 2014,Semifinal,Wheat,PYL,Trent,Lovins,Lovins,2,4,4,1,3,4,1,1,2,3,2,4,3,4,1,2
+Virginia 2014,Semifinal,Jimbo,Jones,JT,Stinson,Jimbo,1,3,1,3,2,2,4,4,3,3,4,1,4,3,4,1
+Virginia 2014,Semifinal,Jimbo,Jones,JT,Stinson,Jones,2,2,3,1,1,4,2,2,1,1,3,2,1,2,2,2
+Virginia 2014,Semifinal,Jimbo,Jones,JT,Stinson,JT,4,1,4,4,4,3,3,1,4,4,2,3,3,4,3,4
+Virginia 2014,Semifinal,Jimbo,Jones,JT,Stinson,Stinson,3,4,2,2,3,1,1,3,2,2,1,4,2,1,1,3
+Virginia 2014,Final,Lovins,Jones,Trent,Stinson,Lovins,4,4,3,1,2,4,3,3,3,3,1,4,1,3,2,4
+Virginia 2014,Final,Lovins,Jones,Trent,Stinson,Jones,2,3,2,4,1,3,2,1,1,1,3,1,2,2,1,1
+Virginia 2014,Final,Lovins,Jones,Trent,Stinson,Trent,3,2,4,3,4,2,4,4,2,2,2,2,3,1,4,2
+Virginia 2014,Final,Lovins,Jones,Trent,Stinson,Stinson,1,1,1,2,3,1,1,2,4,4,4,3,4,4,3,3
+Virginia 2015,Playin,Third,Liz,Kyle,Lance,Third,1,1,1,1,3,1,1,2,2,2,1,2,1,2,3,2
+Virginia 2015,Playin,Third,Liz,Kyle,Lance,Liz,4,4,4,3,4,4,4,4,3,3,4,4,2,3,4,4
+Virginia 2015,Playin,Third,Liz,Kyle,Lance,Kyle,2,3,2,4,1,3,3,1,1,1,3,3,4,4,2,1
+Virginia 2015,Playin,Third,Liz,Kyle,Lance,Lance,3,2,3,2,2,2,2,3,4,4,2,1,3,1,1,3
+Virginia 2015,Playin,Ngamer,Duff,Jake,Mark S,Ngamer,2,2,3,4,4,1,4,4,4,4,2,1,2,4,3,3
+Virginia 2015,Playin,Ngamer,Duff,Jake,Mark S,Duff,3,3,4,2,2,4,1,3,3,3,3,4,4,3,4,4
+Virginia 2015,Playin,Ngamer,Duff,Jake,Mark S,Jake,1,1,1,1,1,3,3,2,2,2,4,2,3,2,2,2
+Virginia 2015,Playin,Ngamer,Duff,Jake,Mark S,Mark S,4,4,2,3,3,2,2,1,1,1,1,3,1,1,1,1
+Virginia 2015,Playin,Wiff,Hutch,Dan B,Dennison,Wiff,2,3,3,4,3,3,4,3,2,3,1,2,2,3,4,2
+Virginia 2015,Playin,Wiff,Hutch,Dan B,Dennison,Hutch,4,4,4,3,4,4,3,4,4,4,3,3,3,4,3,1
+Virginia 2015,Playin,Wiff,Hutch,Dan B,Dennison,Dan B,1,2,1,1,1,1,1,1,1,2,4,1,4,2,2,3
+Virginia 2015,Playin,Wiff,Hutch,Dan B,Dennison,Dennison,3,1,2,2,2,2,2,2,3,1,2,4,1,1,1,4
+Virginia 2015,R16,JT,Jones,Weatherton,Lance,JT,3,3,1,3,1,1,2,1,3,3,1,1,4,3,3,4
+Virginia 2015,R16,JT,Jones,Weatherton,Lance,Jones,1,1,3,1,2,4,4,2,1,1,3,2,3,2,1,1
+Virginia 2015,R16,JT,Jones,Weatherton,Lance,Weatherton,4,2,2,4,4,3,1,3,2,4,2,4,1,1,2,2
+Virginia 2015,R16,JT,Jones,Weatherton,Lance,Lance,2,4,4,2,3,2,3,4,4,2,4,3,2,4,4,3
+Virginia 2015,R16,Clark,Stinson,PYL,Dennison,Clark,4,3,4,3,4,2,1,4,4,4,3,4,4,2,1,2
+Virginia 2015,R16,Clark,Stinson,PYL,Dennison,Stinson,1,2,3,1,1,4,2,2,3,2,1,1,3,1,4,4
+Virginia 2015,R16,Clark,Stinson,PYL,Dennison,PYL,2,1,2,2,2,3,4,1,1,1,4,3,2,4,3,1
+Virginia 2015,R16,Clark,Stinson,PYL,Dennison,Dennison,3,4,1,4,3,1,3,3,2,3,2,2,1,3,2,3
+Virginia 2015,R16,Third,Wheat,Jake,Trent,Third,3,1,1,3,2,4,2,2,2,4,4,4,3,3,4,3
+Virginia 2015,R16,Third,Wheat,Jake,Trent,Wheat,4,2,3,2,4,1,1,4,4,1,2,1,4,2,3,4
+Virginia 2015,R16,Third,Wheat,Jake,Trent,Jake,1,3,4,1,1,2,4,3,3,3,1,3,1,4,2,2
+Virginia 2015,R16,Third,Wheat,Jake,Trent,Trent,2,4,2,4,3,3,3,1,1,2,3,2,2,1,1,1
+Virginia 2015,R16,Dan B,Jimbo,Lovins,Mark S,Dan B,2,4,4,2,2,2,1,1,2,3,2,3,4,1,1,2
+Virginia 2015,R16,Dan B,Jimbo,Lovins,Mark S,Jimbo,3,3,1,1,1,1,3,2,1,1,1,4,1,4,3,4
+Virginia 2015,R16,Dan B,Jimbo,Lovins,Mark S,Lovins,4,1,3,3,3,3,4,4,4,4,4,1,3,2,2,1
+Virginia 2015,R16,Dan B,Jimbo,Lovins,Mark S,Mark S,1,2,2,4,4,4,2,3,3,2,3,2,2,3,4,3
+Virginia 2015,R16,Dan B,Jones,PYL,Jake,Dan B,3,4,1,3,1,1,3,4,2,3,1,1,4,3,2,1
+Virginia 2015,R16,Dan B,Jones,PYL,Jake,Jones,4,1,2,2,3,3,4,2,3,4,3,3,1,4,4,3
+Virginia 2015,R16,Dan B,Jones,PYL,Jake,PYL,1,3,3,1,2,4,2,1,4,2,4,4,3,1,1,2
+Virginia 2015,R16,Dan B,Jones,PYL,Jake,Jake,2,2,4,4,4,2,1,3,1,1,2,2,2,2,3,4
+Virginia 2015,R16,Third,Stinson,JT,Mark S,Third,1,1,4,4,3,1,4,2,1,4,3,3,2,2,4,2
+Virginia 2015,R16,Third,Stinson,JT,Mark S,Stinson,3,2,1,3,1,3,3,1,2,3,2,2,1,1,2,1
+Virginia 2015,R16,Third,Stinson,JT,Mark S,JT,4,3,3,2,4,2,1,3,3,2,4,1,3,4,1,3
+Virginia 2015,R16,Third,Stinson,JT,Mark S,Mark S,2,4,2,1,2,4,2,4,4,1,1,4,4,3,3,4
+Virginia 2015,R16,Jimbo,Clark,Lance,Trent,Jimbo,1,1,3,1,1,4,4,2,1,3,3,3,2,2,1,1
+Virginia 2015,R16,Jimbo,Clark,Lance,Trent,Clark,4,3,4,3,3,3,1,1,2,4,2,1,4,1,4,4
+Virginia 2015,R16,Jimbo,Clark,Lance,Trent,Lance,3,4,1,4,4,2,2,4,3,2,4,4,3,3,3,2
+Virginia 2015,R16,Jimbo,Clark,Lance,Trent,Trent,2,2,2,2,2,1,3,3,4,1,1,2,1,4,2,3
+Virginia 2015,R16,Dennison,Lovins,Wheat,Weatherton,Dennison,3,2,4,4,3,3,3,3,1,4,3,4,2,3,1,4
+Virginia 2015,R16,Dennison,Lovins,Wheat,Weatherton,Lovins,2,4,2,2,1,2,4,2,2,1,1,1,1,2,2,2
+Virginia 2015,R16,Dennison,Lovins,Wheat,Weatherton,Wheat,1,1,1,3,4,1,2,1,3,2,4,3,3,4,4,1
+Virginia 2015,R16,Dennison,Lovins,Wheat,Weatherton,Weatherton,4,3,3,1,2,4,1,4,4,3,2,2,4,1,3,3
+Virginia 2015,Semifinal,Dan B,Jones,PYL,Stinson,Dan B,3,1,1,4,1,2,2,2,4,3,1,2,3,3,2,2
+Virginia 2015,Semifinal,Dan B,Jones,PYL,Stinson,Jones,2,2,2,3,2,1,1,3,2,4,4,3,1,1,1,3
+Virginia 2015,Semifinal,Dan B,Jones,PYL,Stinson,PYL,4,4,3,2,4,4,3,1,1,2,2,4,2,2,3,1
+Virginia 2015,Semifinal,Dan B,Jones,PYL,Stinson,Stinson,1,3,4,1,3,3,4,4,3,1,3,1,4,4,4,4
+Virginia 2015,Semifinal,Jimbo,Lovins,Trent,Jake,Jimbo,1,1,2,2,1,2,2,3,2,4,4,1,3,4,3,3
+Virginia 2015,Semifinal,Jimbo,Lovins,Trent,Jake,Lovins,3,4,3,3,3,1,4,2,4,1,2,4,1,2,2,2
+Virginia 2015,Semifinal,Jimbo,Lovins,Trent,Jake,Trent,2,3,1,4,4,3,3,4,3,2,3,3,2,1,4,4
+Virginia 2015,Semifinal,Jimbo,Lovins,Trent,Jake,Jake,4,2,4,1,2,4,1,1,1,3,1,2,4,3,1,1
+Virginia 2015,Final,Dan B,Jones,Jimbo,Jake,Dan B,3,4,4,1,2,2,4,2,2,2,3,4,3,4,4,2
+Virginia 2015,Final,Dan B,Jones,Jimbo,Jake,Jones,4,3,1,2,1,1,3,4,1,4,4,2,1,1,2,1
+Virginia 2015,Final,Dan B,Jones,Jimbo,Jake,Jimbo,2,1,2,3,3,4,1,3,3,1,1,3,2,3,3,4
+Virginia 2015,Final,Dan B,Jones,Jimbo,Jake,Jake,1,2,3,4,4,3,2,1,4,3,2,1,4,2,1,3
+Virginia 2016,Playin,Duff,Alec-TC,Ngamer,Dennison,Duff,3,3,3,2,1,3,4,4,3,3,2,3,4,4,4,3
+Virginia 2016,Playin,Duff,Alec-TC,Ngamer,Dennison,Alec-TC,4,4,2,4,4,4,2,3,1,4,4,4,3,1,3,2
+Virginia 2016,Playin,Duff,Alec-TC,Ngamer,Dennison,Ngamer,2,2,4,3,3,2,3,1,4,1,1,2,2,2,2,4
+Virginia 2016,Playin,Duff,Alec-TC,Ngamer,Dennison,Dennison,1,1,1,1,2,1,1,2,2,2,3,1,1,3,1,1
+Virginia 2016,Playin,Steve,Wiff,Mgay,Frankie,Steve,3,2,4,1,2,4,3,4,3,3,2,3,4,3,3,3
+Virginia 2016,Playin,Steve,Wiff,Mgay,Frankie,Wiff,4,4,3,4,4,1,4,2,4,4,3,2,2,4,2,4
+Virginia 2016,Playin,Steve,Wiff,Mgay,Frankie,Mgay,2,3,2,3,3,2,1,3,2,2,1,4,1,2,4,2
+Virginia 2016,Playin,Steve,Wiff,Mgay,Frankie,Frankie,1,1,1,2,1,3,2,1,1,1,4,1,3,1,1,1
+Virginia 2016,R16,JT,Jones,Alec-TC,Edeen,JT,3,3,1,1,3,1,2,3,1,3,2,3,3,1,3,1
+Virginia 2016,R16,JT,Jones,Alec-TC,Edeen,Jones,1,1,2,2,1,3,1,1,3,1,1,2,2,2,1,2
+Virginia 2016,R16,JT,Jones,Alec-TC,Edeen,Alec-TC,2,2,4,4,4,4,4,4,2,4,3,4,4,4,2,3
+Virginia 2016,R16,JT,Jones,Alec-TC,Edeen,Edeen,4,4,3,3,2,2,3,2,4,2,4,1,1,3,4,4
+Virginia 2016,R16,Jimbo,Stinson,Weatherton,Steve,Jimbo,2,2,2,2,1,2,3,1,4,2,4,1,2,1,1,1
+Virginia 2016,R16,Jimbo,Stinson,Weatherton,Steve,Stinson,3,1,1,1,3,1,1,3,1,1,1,2,1,2,2,2
+Virginia 2016,R16,Jimbo,Stinson,Weatherton,Steve,Weatherton,4,3,3,3,4,3,2,2,2,4,3,3,3,4,3,3
+Virginia 2016,R16,Jimbo,Stinson,Weatherton,Steve,Steve,1,4,4,4,2,4,4,4,3,3,2,4,4,3,4,4
+Virginia 2016,R16,Dennison,Trent,Ngamer,Jake,Dennison,2,1,3,2,1,4,3,3,2,3,4,1,1,1,3,1
+Virginia 2016,R16,Dennison,Trent,Ngamer,Jake,Trent,3,2,2,1,4,2,1,1,3,4,1,3,2,3,1,3
+Virginia 2016,R16,Dennison,Trent,Ngamer,Jake,Ngamer,1,3,4,4,3,3,4,4,4,2,3,4,4,4,4,2
+Virginia 2016,R16,Dennison,Trent,Ngamer,Jake,Jake,4,4,1,3,2,1,2,2,1,1,2,2,3,2,2,4
+Virginia 2016,R16,Boss,Zoran,Mgay,Frankie,Boss,1,1,3,3,3,3,2,2,4,2,2,2,2,1,4,1
+Virginia 2016,R16,Boss,Zoran,Mgay,Frankie,Zoran,2,3,1,1,2,2,1,4,1,1,3,1,1,3,1,3
+Virginia 2016,R16,Boss,Zoran,Mgay,Frankie,Mgay,3,2,4,4,4,4,3,3,2,4,1,4,4,2,3,2
+Virginia 2016,R16,Boss,Zoran,Mgay,Frankie,Frankie,4,4,2,2,1,1,4,1,3,3,4,3,3,4,2,4
+Virginia 2016,R16,Stinson,Jones,Ngamer,Frankie,Stinson,3,2,2,3,2,3,2,3,4,2,4,1,4,1,2,1
+Virginia 2016,R16,Stinson,Jones,Ngamer,Frankie,Jones,2,1,1,2,1,1,1,2,1,1,3,3,1,4,4,4
+Virginia 2016,R16,Stinson,Jones,Ngamer,Frankie,Ngamer,1,4,3,4,4,2,4,4,2,3,2,4,3,3,3,3
+Virginia 2016,R16,Stinson,Jones,Ngamer,Frankie,Frankie,4,3,4,1,3,4,3,1,3,4,1,2,2,2,1,2
+Virginia 2016,R16,Jimbo,Mgay,Dennison,Edeen,Jimbo,3,3,1,3,1,3,2,2,2,1,1,3,2,1,3,1
+Virginia 2016,R16,Jimbo,Mgay,Dennison,Edeen,Mgay,1,4,4,2,4,4,4,3,3,4,4,4,4,4,4,2
+Virginia 2016,R16,Jimbo,Mgay,Dennison,Edeen,Dennison,2,2,2,1,2,2,1,1,1,3,3,2,1,2,2,4
+Virginia 2016,R16,Jimbo,Mgay,Dennison,Edeen,Edeen,4,1,3,4,3,1,3,4,4,2,2,1,3,3,1,3
+Virginia 2016,R16,Weatherton,Alec-TC,Boss,Jake,Weatherton,1,3,3,2,1,3,2,1,4,3,3,4,2,3,1,2
+Virginia 2016,R16,Weatherton,Alec-TC,Boss,Jake,Alec-TC,3,4,4,3,3,2,4,4,3,4,4,3,1,2,4,3
+Virginia 2016,R16,Weatherton,Alec-TC,Boss,Jake,Boss,2,2,1,4,2,4,1,3,1,1,1,2,3,4,2,1
+Virginia 2016,R16,Weatherton,Alec-TC,Boss,Jake,Jake,4,1,2,1,4,1,3,2,2,2,2,1,4,1,3,4
+Virginia 2016,R16,Zoran,Steve,JT,Trent,Zoran,1,1,1,1,2,1,1,1,1,2,4,2,1,2,1,1
+Virginia 2016,R16,Zoran,Steve,JT,Trent,Steve,4,4,2,3,4,3,4,4,2,4,2,3,4,4,4,3
+Virginia 2016,R16,Zoran,Steve,JT,Trent,JT,2,2,4,4,3,2,3,3,3,3,1,1,3,3,3,4
+Virginia 2016,R16,Zoran,Steve,JT,Trent,Trent,3,3,3,2,1,4,2,2,4,1,3,4,2,1,2,2
+Virginia 2016,Semifinal,Zoran,Stinson,Trent,Dennison,Zoran,3,3,1,1,1,4,3,1,1,3,2,1,1,4,1,1
+Virginia 2016,Semifinal,Zoran,Stinson,Trent,Dennison,Stinson,2,2,2,2,4,2,2,2,2,1,3,4,2,3,3,2
+Virginia 2016,Semifinal,Zoran,Stinson,Trent,Dennison,Trent,4,4,3,4,3,3,1,4,4,2,1,3,4,2,4,4
+Virginia 2016,Semifinal,Zoran,Stinson,Trent,Dennison,Dennison,1,1,4,3,2,1,4,3,3,4,4,2,3,1,2,3
+Virginia 2016,Semifinal,Jimbo,Jones,Boss,Jake,Jimbo,3,3,4,3,2,1,1,1,2,2,4,3,2,2,2,2
+Virginia 2016,Semifinal,Jimbo,Jones,Boss,Jake,Jones,2,2,1,1,3,3,3,2,1,1,3,2,3,4,1,1
+Virginia 2016,Semifinal,Jimbo,Jones,Boss,Jake,Boss,4,4,2,2,1,4,4,4,4,4,1,1,1,3,4,4
+Virginia 2016,Semifinal,Jimbo,Jones,Boss,Jake,Jake,1,1,3,4,4,2,2,3,3,3,2,4,4,1,3,3
+Virginia 2016,Final,Jimbo,Jones,Stinson,Zoran,Jimbo,2,2,1,3,4,4,3,2,1,2,2,3,2,4,2,1
+Virginia 2016,Final,Jimbo,Jones,Stinson,Zoran,Jones,3,4,3,4,1,1,1,4,3,1,4,1,4,2,4,2
+Virginia 2016,Final,Jimbo,Jones,Stinson,Zoran,Stinson,4,3,4,1,2,2,4,3,2,3,3,4,3,1,3,3
+Virginia 2016,Final,Jimbo,Jones,Stinson,Zoran,Zoran,1,1,2,2,3,3,2,1,4,4,1,2,1,3,1,4
+Virginia 2017,Playin,Abney,Dennison,Eise,JT,Abney,3,1,2,1,1,1,2,4,2,3,4,3,2,1,3,1
+Virginia 2017,Playin,Abney,Dennison,Eise,JT,Dennison,2,4,1,3,3,2,3,2,1,1,1,1,1,2,2,2
+Virginia 2017,Playin,Abney,Dennison,Eise,JT,Eise,4,2,4,4,4,4,4,3,4,4,3,4,3,4,4,4
+Virginia 2017,Playin,Abney,Dennison,Eise,JT,JT,1,3,3,2,2,3,1,1,3,2,2,2,4,3,1,3
+Virginia 2017,Playin,Alec-TC,Jake,Kyle,Third,Alec-TC,4,4,2,2,4,1,4,3,3,4,3,2,4,4,1,4
+Virginia 2017,Playin,Alec-TC,Jake,Kyle,Third,Jake,1,3,4,1,1,3,1,4,4,3,4,1,3,3,4,1
+Virginia 2017,Playin,Alec-TC,Jake,Kyle,Third,Kyle,2,1,1,3,3,2,3,1,1,1,1,3,1,2,3,2
+Virginia 2017,Playin,Alec-TC,Jake,Kyle,Third,Third,3,2,3,4,2,4,2,2,2,2,2,4,2,1,2,3
+Virginia 2017,Playin,Booth,Boss,Clark,Lovins,Booth,2,2,3,4,3,3,1,4,4,4,2,4,4,4,3,3
+Virginia 2017,Playin,Booth,Boss,Clark,Lovins,Boss,1,4,4,3,2,2,4,1,1,2,3,1,1,1,1,1
+Virginia 2017,Playin,Booth,Boss,Clark,Lovins,Clark,3,3,1,2,1,4,3,2,3,3,1,2,3,3,2,4
+Virginia 2017,Playin,Booth,Boss,Clark,Lovins,Lovins,4,1,2,1,4,1,2,3,2,1,4,3,2,2,4,2
+Virginia 2017,Playin,Nash,Frankie,MR,Weatherton,Nash,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Virginia 2017,Playin,Nash,Frankie,MR,Weatherton,Frankie,2,2,3,3,3,2,1,3,1,3,3,3,2,3,3,1
+Virginia 2017,Playin,Nash,Frankie,MR,Weatherton,MR,1,1,1,1,2,3,2,1,2,1,2,1,1,1,1,2
+Virginia 2017,Playin,Nash,Frankie,MR,Weatherton,Weatherton,3,3,2,2,1,1,3,2,3,2,1,2,3,2,2,3
+Virginia 2017,Playin,Brian Ray,Dan B,Patrik,Trent,Brian Ray,4,1,3,3,4,3,2,2,1,2,3,2,2,4,4,4
+Virginia 2017,Playin,Brian Ray,Dan B,Patrik,Trent,Dan B,2,2,1,2,3,1,1,3,3,4,1,1,1,2,1,1
+Virginia 2017,Playin,Brian Ray,Dan B,Patrik,Trent,Patrik,1,3,4,1,1,4,4,4,4,1,4,4,3,3,3,3
+Virginia 2017,Playin,Brian Ray,Dan B,Patrik,Trent,Trent,3,4,2,4,2,2,3,1,2,3,2,3,4,1,2,2
+Virginia 2017,Playin,Abney,Alec-TC,Boss,Trent,Abney,2,3,2,3,3,1,1,1,2,1,3,2,4,3,1,2
+Virginia 2017,Playin,Abney,Alec-TC,Boss,Trent,Alec-TC,4,4,4,4,4,4,4,3,1,3,2,3,3,4,4,3
+Virginia 2017,Playin,Abney,Alec-TC,Boss,Trent,Boss,3,2,3,2,1,2,2,2,3,2,1,4,2,1,2,4
+Virginia 2017,Playin,Abney,Alec-TC,Boss,Trent,Trent,1,1,1,1,2,3,3,4,4,4,4,1,1,2,3,1
+Virginia 2017,Playin,Booth,Brian Ray,JT,MR,Booth,4,3,3,4,3,4,2,3,4,4,4,3,3,4,4,3
+Virginia 2017,Playin,Booth,Brian Ray,JT,MR,Brian Ray,3,2,4,2,4,3,4,1,3,3,3,4,4,2,3,4
+Virginia 2017,Playin,Booth,Brian Ray,JT,MR,JT,1,1,2,1,1,1,3,4,2,2,2,1,2,3,2,2
+Virginia 2017,Playin,Booth,Brian Ray,JT,MR,MR,2,4,1,3,2,2,1,2,1,1,1,2,1,1,1,1
+Virginia 2017,Playin,Nash,Dennison,Lovins,Third,Nash,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Virginia 2017,Playin,Nash,Dennison,Lovins,Third,Dennison,1,2,2,3,2,1,2,1,3,1,1,3,1,3,1,3
+Virginia 2017,Playin,Nash,Dennison,Lovins,Third,Lovins,2,3,1,1,3,2,3,2,2,2,2,2,3,2,3,1
+Virginia 2017,Playin,Nash,Dennison,Lovins,Third,Third,3,1,3,2,1,3,1,3,1,3,3,1,2,1,2,2
+Virginia 2017,Playin,Clark,Frankie,Jake,Patrik,Clark,4,2,4,4,2,4,4,4,2,3,3,3,1,4,2,3
+Virginia 2017,Playin,Clark,Frankie,Jake,Patrik,Frankie,2,4,1,2,3,1,2,3,4,1,4,2,2,1,1,2
+Virginia 2017,Playin,Clark,Frankie,Jake,Patrik,Jake,1,1,2,1,1,3,1,2,1,2,1,1,3,2,3,1
+Virginia 2017,Playin,Clark,Frankie,Jake,Patrik,Patrik,3,3,3,3,4,2,3,1,3,4,2,4,4,3,4,4
+Virginia 2017,Playin,Dan B,Eise,Kyle,Weatherton,Dan B,1,4,3,2,1,2,1,3,1,1,2,3,3,3,2,1
+Virginia 2017,Playin,Dan B,Eise,Kyle,Weatherton,Eise,4,3,4,4,3,4,4,4,4,4,4,4,4,4,4,4
+Virginia 2017,Playin,Dan B,Eise,Kyle,Weatherton,Kyle,2,1,2,1,4,1,2,1,3,2,3,2,2,1,3,2
+Virginia 2017,Playin,Dan B,Eise,Kyle,Weatherton,Weatherton,3,2,1,3,2,3,3,2,2,3,1,1,1,2,1,3
+Virginia 2017,R16,Zoran,Frankie,JT,Dan B,Zoran,2,1,4,1,1,4,2,1,4,4,4,2,2,2,2,2
+Virginia 2017,R16,Zoran,Frankie,JT,Dan B,Frankie,1,2,2,3,2,3,3,3,2,2,3,1,3,4,3,1
+Virginia 2017,R16,Zoran,Frankie,JT,Dan B,JT,3,3,3,4,4,2,4,4,1,3,1,3,4,3,1,4
+Virginia 2017,R16,Zoran,Frankie,JT,Dan B,Dan B,4,4,1,2,3,1,1,2,3,1,2,4,1,1,4,3
+Virginia 2017,R16,Jimbo,Lovins,Kyle,Jake,Jimbo,4,3,2,2,1,3,1,1,3,1,4,4,1,2,1,2
+Virginia 2017,R16,Jimbo,Lovins,Kyle,Jake,Lovins,3,2,4,4,2,4,4,3,2,3,2,3,2,3,3,4
+Virginia 2017,R16,Jimbo,Lovins,Kyle,Jake,Kyle,1,4,3,3,4,1,3,4,4,2,1,1,3,4,4,1
+Virginia 2017,R16,Jimbo,Lovins,Kyle,Jake,Jake,2,1,1,1,3,2,2,2,1,4,3,2,4,1,2,3
+Virginia 2017,R16,Abney,Jones,Third,Dennison,Abney,3,4,1,2,2,4,4,3,1,4,2,4,1,1,3,2
+Virginia 2017,R16,Abney,Jones,Third,Dennison,Jones,1,2,2,3,1,3,3,1,3,3,3,2,4,2,1,1
+Virginia 2017,R16,Abney,Jones,Third,Dennison,Third,2,3,3,4,4,1,1,4,2,1,1,3,2,4,2,4
+Virginia 2017,R16,Abney,Jones,Third,Dennison,Dennison,4,1,4,1,3,2,2,2,4,2,4,1,3,3,4,3
+Virginia 2017,R16,MR,Weatherton,Stinson,Boss,MR,1,3,1,1,2,3,1,1,3,1,3,2,1,2,1,3
+Virginia 2017,R16,MR,Weatherton,Stinson,Boss,Weatherton,2,4,4,2,4,2,3,4,1,4,1,4,4,3,4,4
+Virginia 2017,R16,MR,Weatherton,Stinson,Boss,Stinson,3,1,3,4,1,4,4,2,2,2,4,3,3,1,2,2
+Virginia 2017,R16,MR,Weatherton,Stinson,Boss,Boss,4,2,2,3,3,1,2,3,4,3,2,1,2,4,3,1
+Virginia 2017,R16,Zoran,Kyle,Third,Boss,Zoran,1,3,1,1,1,1,2,2,2,1,1,1,4,2,1,3
+Virginia 2017,R16,Zoran,Kyle,Third,Boss,Kyle,3,1,4,3,3,4,1,4,4,4,3,4,2,4,2,1
+Virginia 2017,R16,Zoran,Kyle,Third,Boss,Third,4,4,2,4,2,2,3,3,1,3,4,3,3,3,3,4
+Virginia 2017,R16,Zoran,Kyle,Third,Boss,Boss,2,2,3,2,4,3,4,1,3,2,2,2,1,1,4,2
+Virginia 2017,R16,Jimbo,Abney,Weatherton,Dan B,Jimbo,4,3,3,2,4,3,3,2,3,2,3,3,1,2,3,3
+Virginia 2017,R16,Jimbo,Abney,Weatherton,Dan B,Abney,1,1,1,3,2,1,4,1,1,4,1,1,2,3,2,2
+Virginia 2017,R16,Jimbo,Abney,Weatherton,Dan B,Weatherton,3,4,4,4,3,4,2,4,4,3,4,4,4,4,4,4
+Virginia 2017,R16,Jimbo,Abney,Weatherton,Dan B,Dan B,2,2,2,1,1,2,1,3,2,1,2,2,3,1,1,1
+Virginia 2017,R16,MR,Jones,Frankie,Jake,MR,2,1,1,1,1,1,1,1,2,1,1,3,2,1,1,3
+Virginia 2017,R16,MR,Jones,Frankie,Jake,Jones,4,2,3,4,3,2,3,2,1,4,3,4,1,3,3,1
+Virginia 2017,R16,MR,Jones,Frankie,Jake,Frankie,3,3,2,3,2,4,4,4,3,3,4,1,3,2,2,4
+Virginia 2017,R16,MR,Jones,Frankie,Jake,Jake,1,4,4,2,4,3,2,3,4,2,2,2,4,4,4,2
+Virginia 2017,R16,JT,Dennison,Lovins,Stinson,JT,3,2,2,1,4,3,2,1,2,2,3,4,4,3,3,2
+Virginia 2017,R16,JT,Dennison,Lovins,Stinson,Dennison,2,4,3,3,1,4,1,3,3,1,1,2,1,2,1,1
+Virginia 2017,R16,JT,Dennison,Lovins,Stinson,Lovins,1,3,4,2,2,1,3,2,1,4,2,3,3,4,2,4
+Virginia 2017,R16,JT,Dennison,Lovins,Stinson,Stinson,4,1,1,4,3,2,4,4,4,3,4,1,2,1,4,3
+Virginia 2017,Semifinal,MR,Abney,Jimbo,Dennison,MR,1,1,1,1,2,1,1,2,2,2,1,2,1,1,1,1
+Virginia 2017,Semifinal,MR,Abney,Jimbo,Dennison,Abney,4,4,3,2,1,3,2,4,1,3,4,1,2,2,4,3
+Virginia 2017,Semifinal,MR,Abney,Jimbo,Dennison,Jimbo,3,2,4,3,4,4,3,1,4,1,2,4,4,4,3,2
+Virginia 2017,Semifinal,MR,Abney,Jimbo,Dennison,Dennison,2,3,2,4,3,2,4,3,3,4,3,3,3,3,2,4
+Virginia 2017,Semifinal,Zoran,Jones,Boss,Dan B,Zoran,2,4,1,2,1,1,1,1,1,2,3,1,1,1,3,4
+Virginia 2017,Semifinal,Zoran,Jones,Boss,Dan B,Jones,4,3,3,3,4,3,3,4,4,4,1,4,2,4,2,3
+Virginia 2017,Semifinal,Zoran,Jones,Boss,Dan B,Boss,1,2,4,1,3,4,2,2,2,1,2,2,4,3,1,2
+Virginia 2017,Semifinal,Zoran,Jones,Boss,Dan B,Dan B,3,1,2,4,2,2,4,3,3,3,4,3,3,2,4,1
+Virginia 2017,Final,MR,Zoran,Abney,Boss,MR,3,1,3,2,1,4,1,1,3,2,2,1,4,2,3,3
+Virginia 2017,Final,MR,Zoran,Abney,Boss,Zoran,4,2,2,4,3,2,3,3,2,4,1,3,1,4,2,2
+Virginia 2017,Final,MR,Zoran,Abney,Boss,Abney,1,3,1,3,4,1,2,4,4,3,4,4,2,1,1,4
+Virginia 2017,Final,MR,Zoran,Abney,Boss,Boss,2,4,4,1,2,3,4,2,1,1,3,2,3,3,4,1
+Virginia 2018,Playin,Menji,Weatherton,Clark,Matis,Menji,2,2,2,4,4,3,3,4,3,4,3,3,4,4,4,2
+Virginia 2018,Playin,Menji,Weatherton,Clark,Matis,Weatherton,3,1,4,1,2,1,1,1,1,1,2,1,3,1,3,3
+Virginia 2018,Playin,Menji,Weatherton,Clark,Matis,Clark,4,3,1,2,1,2,4,2,2,3,1,2,1,2,2,1
+Virginia 2018,Playin,Menji,Weatherton,Clark,Matis,Matis,1,4,3,3,3,4,2,3,4,2,4,4,2,3,1,4
+Virginia 2018,Playin,Ngamer,GreatScott,Kyle,Deel,Ngamer,2,4,2,3,2,4,3,4,3,2,3,1,2,2,3,3
+Virginia 2018,Playin,Ngamer,GreatScott,Kyle,Deel,GreatScott,4,3,4,4,4,3,4,3,4,4,4,4,4,4,4,4
+Virginia 2018,Playin,Ngamer,GreatScott,Kyle,Deel,Kyle,3,1,1,2,1,1,1,2,1,1,2,2,1,1,1,1
+Virginia 2018,Playin,Ngamer,GreatScott,Kyle,Deel,Deel,1,2,3,1,3,2,2,1,2,3,1,3,3,3,2,2
+Virginia 2018,Playin,Mgay,Thingy,Trent,UNO,Mgay,1,2,3,2,2,1,1,2,2,3,2,1,4,3,2,3
+Virginia 2018,Playin,Mgay,Thingy,Trent,UNO,Thingy,4,4,1,4,3,4,4,4,3,4,4,4,3,4,4,4
+Virginia 2018,Playin,Mgay,Thingy,Trent,UNO,Trent,2,3,2,1,1,3,2,1,1,1,1,2,1,1,1,1
+Virginia 2018,Playin,Mgay,Thingy,Trent,UNO,UNO,3,1,4,3,4,2,3,3,4,2,3,3,2,2,3,2
+Virginia 2018,R16,Abney,Trent,Kyle,Matis,Abney,2,2,2,4,3,3,1,3,3,3,1,1,4,2,1,2
+Virginia 2018,R16,Abney,Trent,Kyle,Matis,Trent,1,1,3,2,1,1,4,1,4,2,4,3,2,1,2,4
+Virginia 2018,R16,Abney,Trent,Kyle,Matis,Kyle,4,4,1,1,2,2,2,2,2,1,3,2,1,4,3,1
+Virginia 2018,R16,Abney,Trent,Kyle,Matis,Matis,3,3,4,3,4,4,3,4,1,4,2,4,3,3,4,3
+Virginia 2018,R16,Dan B,Weatherton,JT,UNO,Dan B,1,1,1,1,2,1,4,3,2,2,1,1,2,1,1,1
+Virginia 2018,R16,Dan B,Weatherton,JT,UNO,Weatherton,3,3,3,3,4,2,2,2,3,4,4,3,3,3,2,4
+Virginia 2018,R16,Dan B,Weatherton,JT,UNO,JT,4,2,2,2,1,4,1,4,1,1,2,2,1,2,4,3
+Virginia 2018,R16,Dan B,Weatherton,JT,UNO,UNO,2,4,4,4,3,3,3,1,4,3,3,4,4,4,3,2
+Virginia 2018,R16,Jones,Stinson,Clark,Ngamer,Jones,3,1,3,1,2,1,3,4,1,1,1,1,1,3,1,2
+Virginia 2018,R16,Jones,Stinson,Clark,Ngamer,Stinson,1,4,2,2,3,3,4,2,2,3,2,2,2,1,4,1
+Virginia 2018,R16,Jones,Stinson,Clark,Ngamer,Clark,4,3,4,4,1,2,1,1,4,4,4,4,4,4,3,3
+Virginia 2018,R16,Jones,Stinson,Clark,Ngamer,Ngamer,2,2,1,3,4,4,2,3,3,2,3,3,3,2,2,4
+Virginia 2018,R16,Mgay,Frankie,Jake,Deel,Mgay,3,1,4,3,2,4,1,3,1,3,2,4,4,4,4,4
+Virginia 2018,R16,Mgay,Frankie,Jake,Deel,Frankie,2,2,3,2,4,2,2,1,2,2,1,1,1,1,2,1
+Virginia 2018,R16,Mgay,Frankie,Jake,Deel,Jake,4,3,1,4,1,1,4,2,3,1,3,2,2,3,1,3
+Virginia 2018,R16,Mgay,Frankie,Jake,Deel,Deel,1,4,2,1,3,3,3,4,4,4,4,3,3,2,3,2
+Virginia 2018,R16,Abney,Ngamer,JT,Deel,Abney,2,2,1,1,2,1,1,3,1,2,2,3,1,1,2,1
+Virginia 2018,R16,Abney,Ngamer,JT,Deel,Ngamer,4,3,3,4,4,2,4,4,3,3,4,4,4,3,4,3
+Virginia 2018,R16,Abney,Ngamer,JT,Deel,JT,1,1,2,2,1,3,3,1,2,1,1,2,2,4,1,4
+Virginia 2018,R16,Abney,Ngamer,JT,Deel,Deel,3,4,4,3,3,4,2,2,4,4,3,1,3,2,3,2
+Virginia 2018,R16,Dan B,Clark,Kyle,Mgay,Dan B,1,2,2,2,1,2,3,3,3,1,3,1,1,1,1,1
+Virginia 2018,R16,Dan B,Clark,Kyle,Mgay,Clark,4,4,4,3,3,3,2,4,2,2,2,4,4,4,3,3
+Virginia 2018,R16,Dan B,Clark,Kyle,Mgay,Kyle,2,1,3,1,2,1,1,1,4,3,1,3,2,2,4,4
+Virginia 2018,R16,Dan B,Clark,Kyle,Mgay,Mgay,3,3,1,4,4,4,4,2,1,4,4,2,3,3,2,2
+Virginia 2018,R16,Jones,Frankie,Weatherton,Matis,Jones,1,1,1,3,1,1,2,1,1,2,1,3,1,4,1,2
+Virginia 2018,R16,Jones,Frankie,Weatherton,Matis,Frankie,2,3,2,1,4,4,3,2,4,1,2,1,3,1,3,1
+Virginia 2018,R16,Jones,Frankie,Weatherton,Matis,Weatherton,3,4,3,2,2,2,1,4,2,4,4,4,4,2,4,4
+Virginia 2018,R16,Jones,Frankie,Weatherton,Matis,Matis,4,2,4,4,3,3,4,3,3,3,3,2,2,3,2,3
+Virginia 2018,R16,Trent,Stinson,Jake,UNO,Trent,2,3,3,3,1,2,3,2,2,1,1,1,1,3,1,2
+Virginia 2018,R16,Trent,Stinson,Jake,UNO,Stinson,1,2,1,2,4,4,1,3,4,3,4,3,3,2,4,3
+Virginia 2018,R16,Trent,Stinson,Jake,UNO,Jake,3,1,2,1,2,1,2,1,1,2,2,2,2,1,2,1
+Virginia 2018,R16,Trent,Stinson,Jake,UNO,UNO,4,4,4,4,3,3,4,4,3,4,3,4,4,4,3,4
+Virginia 2018,Semifinal,Dan B,Frankie,Jake,Kyle,Dan B,2,1,4,4,1,1,3,3,2,4,3,4,2,3,2,1
+Virginia 2018,Semifinal,Dan B,Frankie,Jake,Kyle,Frankie,1,4,2,1,2,4,2,1,4,2,4,1,3,1,3,4
+Virginia 2018,Semifinal,Dan B,Frankie,Jake,Kyle,Jake,3,3,1,2,4,2,1,4,3,3,2,3,1,4,4,3
+Virginia 2018,Semifinal,Dan B,Frankie,Jake,Kyle,Kyle,4,2,3,3,3,3,4,2,1,1,1,2,4,2,1,2
+Virginia 2018,Semifinal,Jones,Abney,JT,Trent,Jones,4,3,2,2,3,2,4,4,3,4,2,3,3,2,3,2
+Virginia 2018,Semifinal,Jones,Abney,JT,Trent,Abney,1,2,1,4,1,1,1,1,2,1,1,1,4,1,1,1
+Virginia 2018,Semifinal,Jones,Abney,JT,Trent,JT,2,1,3,3,4,4,3,3,4,2,3,2,1,3,2,3
+Virginia 2018,Semifinal,Jones,Abney,JT,Trent,Trent,3,4,4,1,2,3,2,2,1,3,4,4,2,4,4,4
+Virginia 2018,Final,Abney,Frankie,Kyle,JT,Abney,4,2,1,2,1,4,1,1,2,4,1,2,3,1,1,3
+Virginia 2018,Final,Abney,Frankie,Kyle,JT,Frankie,2,1,2,1,2,2,4,2,1,1,4,4,4,4,4,2
+Virginia 2018,Final,Abney,Frankie,Kyle,JT,Kyle,1,3,4,4,3,3,2,3,4,3,3,1,1,3,2,4
+Virginia 2018,Final,Abney,Frankie,Kyle,JT,JT,3,4,3,3,4,1,3,4,3,2,2,3,2,2,3,1
+Virginia 2019,Playin,Zoran,Weatherton,Andy,Trash Cat,Zoran,2,1,3,1,1,1,2,1,1,2,3,2,1,3,1,1
+Virginia 2019,Playin,Zoran,Weatherton,Andy,Trash Cat,Weatherton,1,4,1,2,3,4,3,3,2,1,1,3,2,1,2,2
+Virginia 2019,Playin,Zoran,Weatherton,Andy,Trash Cat,Andy,3,3,2,3,2,2,4,2,4,3,2,1,3,2,3,3
+Virginia 2019,Playin,Zoran,Weatherton,Andy,Trash Cat,Trash Cat,4,2,4,4,4,3,1,4,3,4,4,4,4,4,4,4
+Virginia 2019,Playin,TYG,Mgay,Thingy,Dan B,TYG,2,4,1,2,2,3,2,1,1,2,2,1,2,1,2,2
+Virginia 2019,Playin,TYG,Mgay,Thingy,Dan B,Mgay,3,1,3,3,3,1,3,2,3,3,3,2,3,3,3,3
+Virginia 2019,Playin,TYG,Mgay,Thingy,Dan B,Thingy,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Virginia 2019,Playin,TYG,Mgay,Thingy,Dan B,Dan B,1,2,2,1,1,2,1,3,2,1,1,3,1,2,1,1
+Virginia 2019,Playin,Joo,Stinson,Ngamer,Jake,Joo,3,4,3,3,4,2,4,4,3,3,4,4,3,3,4,4
+Virginia 2019,Playin,Joo,Stinson,Ngamer,Jake,Stinson,2,3,2,2,2,1,3,1,1,1,2,2,2,1,3,1
+Virginia 2019,Playin,Joo,Stinson,Ngamer,Jake,Ngamer,1,2,4,4,3,4,2,3,4,4,3,3,4,4,2,3
+Virginia 2019,Playin,Joo,Stinson,Ngamer,Jake,Jake,4,1,1,1,1,3,1,2,2,2,1,1,1,2,1,2
+Virginia 2019,Playin,Jones,UNO,Clark,PYL,Jones,2,3,4,1,1,2,1,1,3,1,1,1,1,1,4,1
+Virginia 2019,Playin,Jones,UNO,Clark,PYL,UNO,4,2,1,3,2,4,3,3,4,2,3,4,3,3,2,2
+Virginia 2019,Playin,Jones,UNO,Clark,PYL,Clark,3,4,2,2,4,3,2,4,2,4,4,3,2,4,1,4
+Virginia 2019,Playin,Jones,UNO,Clark,PYL,PYL,1,1,3,4,3,1,4,2,1,3,2,2,4,2,3,3
+Virginia 2019,Playin,Dennison,Meleeman,Kazuya,Trent,Dennison,2,4,3,4,1,1,2,4,3,2,4,4,1,1,1,1
+Virginia 2019,Playin,Dennison,Meleeman,Kazuya,Trent,Meleeman,1,1,2,2,4,4,3,2,4,1,2,3,4,3,4,4
+Virginia 2019,Playin,Dennison,Meleeman,Kazuya,Trent,Kazuya,3,2,1,3,3,3,4,3,2,3,3,2,2,2,2,3
+Virginia 2019,Playin,Dennison,Meleeman,Kazuya,Trent,Trent,4,3,4,1,2,2,1,1,1,4,1,1,3,4,3,2
+Virginia 2019,Playin,Zoran,Mgay,Kazuya,UNO,Zoran,1,3,1,1,1,2,2,1,1,1,2,1,2,3,1,1
+Virginia 2019,Playin,Zoran,Mgay,Kazuya,UNO,Mgay,3,2,2,2,2,3,3,3,3,3,3,3,4,4,2,2
+Virginia 2019,Playin,Zoran,Mgay,Kazuya,UNO,Kazuya,2,1,3,3,3,1,4,2,2,2,4,2,3,2,3,3
+Virginia 2019,Playin,Zoran,Mgay,Kazuya,UNO,UNO,4,4,4,4,4,4,1,4,4,4,1,4,1,1,4,4
+Virginia 2019,Playin,Dan B,Trash Cat,Dennison,Ngamer,Dan B,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1
+Virginia 2019,Playin,Dan B,Trash Cat,Dennison,Ngamer,Trash Cat,2,1,3,3,4,4,4,4,4,3,4,3,2,4,4,4
+Virginia 2019,Playin,Dan B,Trash Cat,Dennison,Ngamer,Dennison,3,4,2,2,1,1,3,3,3,4,2,2,4,3,2,2
+Virginia 2019,Playin,Dan B,Trash Cat,Dennison,Ngamer,Ngamer,4,3,4,4,3,3,2,2,2,2,3,4,3,2,3,3
+Virginia 2019,Playin,Weatherton,Meleeman,Clark,Jake,Weatherton,3,3,1,4,2,3,2,4,1,2,3,3,2,2,1,2
+Virginia 2019,Playin,Weatherton,Meleeman,Clark,Jake,Meleeman,1,4,4,2,4,4,3,2,2,4,1,2,3,3,3,3
+Virginia 2019,Playin,Weatherton,Meleeman,Clark,Jake,Clark,2,2,3,1,3,1,1,3,4,3,4,1,1,4,2,4
+Virginia 2019,Playin,Weatherton,Meleeman,Clark,Jake,Jake,4,1,2,3,1,2,4,1,3,1,2,4,4,1,4,1
+Virginia 2019,Playin,Jones,Stinson,Andy,Thingy,Jones,2,2,3,4,1,1,2,1,1,1,1,1,1,1,1,1
+Virginia 2019,Playin,Jones,Stinson,Andy,Thingy,Stinson,4,1,1,2,3,3,1,3,2,2,2,3,2,2,3,2
+Virginia 2019,Playin,Jones,Stinson,Andy,Thingy,Andy,1,3,2,1,2,2,3,2,4,3,3,2,3,3,2,4
+Virginia 2019,Playin,Jones,Stinson,Andy,Thingy,Thingy,3,4,4,3,4,4,4,4,3,4,4,4,4,4,4,3
+Virginia 2019,Playin,TYG,Trent,Joo,PYL,TYG,2,2,2,2,2,1,1,1,1,2,3,1,2,4,1,4
+Virginia 2019,Playin,TYG,Trent,Joo,PYL,Trent,1,1,1,4,3,4,2,2,3,3,1,2,1,1,2,3
+Virginia 2019,Playin,TYG,Trent,Joo,PYL,Joo,4,4,4,3,4,3,4,3,2,4,4,4,4,2,3,2
+Virginia 2019,Playin,TYG,Trent,Joo,PYL,PYL,3,3,3,1,1,2,3,4,4,1,2,3,3,3,4,1
+Virginia 2019,R16,Abney,TYG,Andy,Jake,Abney,4,1,1,1,4,3,1,1,2,1,4,2,1,2,1,1
+Virginia 2019,R16,Abney,TYG,Andy,Jake,TYG,1,2,4,2,2,1,3,4,3,2,3,4,3,3,3,3
+Virginia 2019,R16,Abney,TYG,Andy,Jake,Andy,2,4,2,4,3,4,4,3,4,3,2,1,4,4,2,4
+Virginia 2019,R16,Abney,TYG,Andy,Jake,Jake,3,3,3,3,1,2,2,2,1,4,1,3,2,1,4,2
+Virginia 2019,R16,Frankie,Jones,Kazuya,Stinson,Frankie,3,3,3,2,2,4,3,1,1,1,2,1,2,4,2,3
+Virginia 2019,R16,Frankie,Jones,Kazuya,Stinson,Jones,2,1,1,3,4,2,2,4,4,2,1,3,4,2,3,2
+Virginia 2019,R16,Frankie,Jones,Kazuya,Stinson,Kazuya,1,4,4,1,3,1,4,3,2,4,4,4,3,3,1,4
+Virginia 2019,R16,Frankie,Jones,Kazuya,Stinson,Stinson,4,2,2,4,1,3,1,2,3,3,3,2,1,1,4,1
+Virginia 2019,R16,PYL,Zoran,Trent,JT,PYL,3,4,3,1,4,3,2,3,2,2,4,3,3,3,2,4
+Virginia 2019,R16,PYL,Zoran,Trent,JT,Zoran,4,3,1,3,1,4,3,1,1,1,2,2,2,1,1,2
+Virginia 2019,R16,PYL,Zoran,Trent,JT,Trent,1,1,4,2,3,1,4,2,4,4,1,1,1,4,3,3
+Virginia 2019,R16,PYL,Zoran,Trent,JT,JT,2,2,2,4,2,2,1,4,3,3,3,4,4,2,4,1
+Virginia 2019,R16,Dan B,Dennison,Kyle,Weatherton,Dan B,1,1,1,2,2,4,1,2,1,1,2,2,2,2,3,3
+Virginia 2019,R16,Dan B,Dennison,Kyle,Weatherton,Dennison,4,4,2,4,4,3,4,4,4,4,1,3,3,1,4,2
+Virginia 2019,R16,Dan B,Dennison,Kyle,Weatherton,Kyle,3,3,3,1,3,1,2,1,2,2,3,1,1,4,1,1
+Virginia 2019,R16,Dan B,Dennison,Kyle,Weatherton,Weatherton,2,2,4,3,1,2,3,3,3,3,4,4,4,3,2,4
+Virginia 2019,R16,Abney,Jones,Weatherton,PYL,Abney,3,4,1,1,1,2,4,1,3,1,1,2,1,1,2,1
+Virginia 2019,R16,Abney,Jones,Weatherton,PYL,Jones,1,1,2,2,2,3,1,2,4,4,3,1,2,2,1,2
+Virginia 2019,R16,Abney,Jones,Weatherton,PYL,Weatherton,2,3,3,3,3,4,3,4,2,3,2,3,4,4,4,3
+Virginia 2019,R16,Abney,Jones,Weatherton,PYL,PYL,4,2,4,4,4,1,2,3,1,2,4,4,3,3,3,4
+Virginia 2019,R16,Frankie,TYG,Dennison,Trent,Frankie,1,4,3,1,2,2,2,3,4,4,2,3,1,1,3,1
+Virginia 2019,R16,Frankie,TYG,Dennison,Trent,TYG,3,3,2,4,4,4,3,4,1,2,4,4,4,4,2,4
+Virginia 2019,R16,Frankie,TYG,Dennison,Trent,Dennison,4,2,1,3,1,1,4,1,3,1,3,2,3,2,4,2
+Virginia 2019,R16,Frankie,TYG,Dennison,Trent,Trent,2,1,4,2,3,3,1,2,2,3,1,1,2,3,1,3
+Virginia 2019,R16,Dan B,Stinson,Andy,JT,Dan B,2,2,3,4,2,1,4,2,1,1,2,1,4,1,1,1
+Virginia 2019,R16,Dan B,Stinson,Andy,JT,Stinson,3,3,1,1,1,3,2,1,3,2,4,3,1,2,2,2
+Virginia 2019,R16,Dan B,Stinson,Andy,JT,Andy,4,1,2,3,3,4,3,3,4,4,1,2,3,4,4,3
+Virginia 2019,R16,Dan B,Stinson,Andy,JT,JT,1,4,4,2,4,2,1,4,2,3,3,4,2,3,3,4
+Virginia 2019,R16,Kazuya,Zoran,Kyle,Jake,Kazuya,1,2,4,4,2,1,2,3,4,4,4,4,3,4,4,4
+Virginia 2019,R16,Kazuya,Zoran,Kyle,Jake,Zoran,3,3,2,2,1,2,4,4,2,2,1,3,1,1,1,2
+Virginia 2019,R16,Kazuya,Zoran,Kyle,Jake,Kyle,2,1,1,3,3,4,1,2,3,1,2,1,4,3,2,1
+Virginia 2019,R16,Kazuya,Zoran,Kyle,Jake,Jake,4,4,3,1,4,3,3,1,1,3,3,2,2,2,3,3
+Virginia 2019,Semifinal,Abney,Frankie,Zoran,Stinson,Abney,3,4,1,1,4,4,3,2,1,3,3,3,2,1,2,1
+Virginia 2019,Semifinal,Abney,Frankie,Zoran,Stinson,Frankie,4,3,2,3,3,3,1,4,3,4,1,2,1,2,1,4
+Virginia 2019,Semifinal,Abney,Frankie,Zoran,Stinson,Zoran,1,2,3,2,2,1,2,3,2,2,4,1,3,3,4,2
+Virginia 2019,Semifinal,Abney,Frankie,Zoran,Stinson,Stinson,2,1,4,4,1,2,4,1,4,1,2,4,4,4,3,3
+Virginia 2019,Semifinal,Dan B,Jones,Kyle,Trent,Dan B,2,1,1,1,2,3,1,4,2,2,1,2,4,1,2,2
+Virginia 2019,Semifinal,Dan B,Jones,Kyle,Trent,Jones,1,3,3,2,1,4,3,3,1,4,2,1,2,3,1,4
+Virginia 2019,Semifinal,Dan B,Jones,Kyle,Trent,Kyle,3,2,2,4,4,1,2,2,3,3,3,4,3,2,3,1
+Virginia 2019,Semifinal,Dan B,Jones,Kyle,Trent,Trent,4,4,4,3,3,2,4,1,4,1,4,3,1,4,4,3
+Virginia 2019,Final,Dan B,Zoran,Abney,Jones,Dan B,3,3,4,3,3,3,1,3,4,1,1,4,3,4,2,3
+Virginia 2019,Final,Dan B,Zoran,Abney,Jones,Zoran,1,2,1,2,1,2,2,2,1,2,3,2,4,2,1,1
+Virginia 2019,Final,Dan B,Zoran,Abney,Jones,Abney,4,1,2,1,4,1,3,4,2,4,2,1,2,1,3,4
+Virginia 2019,Final,Dan B,Zoran,Abney,Jones,Jones,2,4,3,4,2,4,4,1,3,3,4,3,1,3,4,2
